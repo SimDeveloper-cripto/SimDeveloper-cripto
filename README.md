@@ -1,15 +1,15 @@
 <h1 align="center"> Hi 👋, I'm Simone Catapano </h1>
-<h3 align="center"> A passionate computer scientist 🎓 from Italy. <br> What I love the most are Embedded Arm systems like **Raspberry** and **Arduino**. </h3>
+<h3 align="center"> A passionate computer scientist 🎓 from Italy. <br> What I love the most are Embedded Arm systems like Raspberry and Arduino. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simdeveloper-cripto&label=Profile%20views&color=0e75b6&style=flat" alt="simdeveloper-cripto" /> </p>
 
 - 🔭 I’m currently working on [Personal Domotic System for my house!](https://github.com/SimDeveloper-cripto/Embedded-Domotic-System.git)
 
-- 🌱 Languages that I’m currently learning **Go, V, C#**
+- 🌱 Languages that I’m currently learning: **Go, V, C#**
 
-- 🌱 Frameworks that I’m currently learning **Numpy, React, React Native, OpenCV, Tensorflow, Cloud**
+- 🌱 Frameworks that I’m currently learning: **Numpy, React, React Native, OpenCV, Tensorflow, Cloud**
 
-- 🌱 I would love to learn **OpenCV, Tensorflow, Cloud**
+- 🌱 I would love to learn: **OpenCV, Tensorflow, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimDeveloper-cripto/](https://github.com/SimDeveloper-cripto/)
 
