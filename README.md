@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Simone Catapano </h1>
-<h3 align="center"> A passionate computer scientist 🎓 from Italy. <br> What I love the most are Embedded Arm systems like __Raspberry__ and __Arduino__. </h3>
+<h3 align="center"> A passionate computer scientist 🎓 from Italy. <br> What I love the most are Embedded Arm systems like **Raspberry** and **Arduino**. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simdeveloper-cripto&label=Profile%20views&color=0e75b6&style=flat" alt="simdeveloper-cripto" /> </p>
 
