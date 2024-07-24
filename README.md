@@ -7,7 +7,7 @@
 
 - 🌱 Languages that I’m currently learning: **Go, V, C#**
 
-- 🌱 Frameworks that I’m currently learning: **Numpy, React, React Native, OpenCV, Tensorflow, Cloud**
+- 🌱 Frameworks that I’m currently learning: **Numpy, React, React Native**
 
 - 🌱 I would love to learn: **OpenCV, Tensorflow, Cloud**
 
