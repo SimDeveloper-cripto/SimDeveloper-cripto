@@ -85,12 +85,11 @@
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
     </a>
-
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="ubuntu" width="40" height="40"/>
     </a>
     <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linuxmint/linuxmint-icon.svg" alt="linux mint" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="linux mint" width="40" height="40"/>
     </a>
 </p>
 
