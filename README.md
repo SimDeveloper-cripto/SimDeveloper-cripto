@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a [Personal Domotic System for my house!](https://github.com/SimDeveloper-cripto/Embedded-Domotic-System.git)
 
-- 🌱 Languages that I’m currently learning: **Zig, Go, V, C#**
+- 🌱 Languages that I’m currently learning: **Zig <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="20" height="20"/>, Go <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>, V <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/v/v-original.svg" alt="v" width="20" height="20"/>, C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>**
 
-- 🌱 Frameworks that I’m currently learning: **Numpy, React, React Native**
+- 🌱 Frameworks that I’m currently learning: **Numpy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20"/>, React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, React Native**
 
-- 🌱 I would love to learn: **OpenCV, Tensorflow, Cloud**
+- 🌱 I would love to learn: **OpenCV <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="20" height="20"/>, Tensorflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimDeveloper-cripto/](https://github.com/SimDeveloper-cripto/)
 
@@ -17,8 +17,8 @@
 
 - 📄 Know about my experiences [Former programmer in a CyberSecurity Company]
 
-<h3 align="left">Languages</h3>
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -37,10 +37,22 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
+    <a href="https://ziglang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
+    </a>
+    <a href="https://golang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://vlang.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/v/v-original.svg" alt="v" width="40" height="40"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
 </p>
 
-<h3 align="left">Frameworks</h3>
-<p align="left">
+<h3 align="center">Frameworks</h3>
+<p align="center">
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
     </a>
@@ -50,10 +62,22 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
 </p>
 
-<h3 align="left">Tools</h3>
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -74,13 +98,10 @@
     </a>
 </p>
 
-<h3 align="left">OS</h3>
-<p align="left">
+<h3 align="center">OS</h3>
+<p align="center">
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
