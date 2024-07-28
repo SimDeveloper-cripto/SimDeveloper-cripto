@@ -1,7 +1,7 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=simdeveloper-cripto&label=Profile%20views&color=0e75b6&style=flat" alt="simdeveloper-cripto" /> </p>
+
 <h1 align="center"> Hi 👋, I'm Simone Catapano </h1>
 <h3 align="center"> A passionate computer scientist 🎓 from Italy. <br> What I love the most are Embedded systems like Raspberry (ARM) and Arduino. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simdeveloper-cripto&label=Profile%20views&color=0e75b6&style=flat" alt="simdeveloper-cripto" /> </p>
 
 - 🔭 I’m currently working on [Personal Domotic System for my house!](https://github.com/SimDeveloper-cripto/Embedded-Domotic-System.git)
 
