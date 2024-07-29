@@ -7,7 +7,7 @@
 
 - 🌱 Languages that I’m currently learning: **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="20" height="20"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>, VLang, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>**
 
-- 🌱 Frameworks that I’m currently learning: **Numpy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20"/>, React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, React-Native**
+- 🌱 Frameworks that I’m currently learning: **Numpy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20"/>, Raylib <img src="https://www.raylib.com/logo/raylib_logo.svg" alt="raylib" width="20" height="20"/>, React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, React-Native**
 
 - 🌱 I would love to learn: **OpenCV <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="20" height="20"/>, Tensorflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>, Cloud Computing**
 
