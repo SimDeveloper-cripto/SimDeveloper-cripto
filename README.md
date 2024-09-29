@@ -7,8 +7,10 @@
 
 - 🌱 Languages that I’m currently learning: **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="20" height="20"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>, VLang, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>**
 
-- 🌱 Frameworks that I’m currently learning: **Numpy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20"/>, Raylib, React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, React-Native**
-    - Go Frameworks:  **Fiber, Echo, GORM**
+- 🌱 Frameworks/Libraries that I’m currently learning: **React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, React-Native**
+    - Go:  **Gorm, Echo, Fiber, Traefik**
+    - Python: **Numpy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20"/>, PyTorch <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="20" height="20"/>**
+    - C and Zig: **OpenMP, Raylib, Raygui**
 
 - 🌱 I would love to learn: **OpenCV <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="20" height="20"/>, Tensorflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>, Cloud Computing**
 
